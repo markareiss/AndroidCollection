@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-10.0.1_b17df89fb7bc87ad8cf02d12c02a02539bdaa050\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_dd55474760cf7d3147951925bf42fa2d85cbef00\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-10.0.1_ba668e8ee13e3c4d82ef4ef6e5f87dfb8c5827af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-10.0.1_fb14d62c32244d7e8588fcb6bf518855eec37ce5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_57f6171746f7a5c17fc3b4e96ea36b920f30e8c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_1de15dad1c8f6181817a3cdda6d3ffef575b7631\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_d8a288aa0612f93712245e227839c9fe9b3499ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-10.0.1_a1e844b98bc2dd4ca465e1a3e71d6413d62dec45\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-appindexing-10.0.1_8a75fdf4b66c2fdacb7ba5740138f1bf85fb693c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-10.0.1_1acfd3ab89d89e4745e3cab1222d146980faa4f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-10.0.1_04e8a38dc27ab3247b541d7da78323c615e49364\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-10.0.1_8ede05c9fbe5d779895134bca89a9af091b9c293\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-10.0.1_a4f6135bd9759a2a6665a4c0ad6b00d32cbcf235\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-10.0.1_b8f068ca74ae70d625bf9bc23ec5d465b6ff58e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.1_222119db0ee395d04ddd505549a8ec7086b4a000\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-10.0.1_ad7191348fd9bbfc39dd658dd40b9fc92364f196\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_3c47ef120baa212b71575663b742906eb55ebdfa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-10.0.1_1dfa5cab504e7f3c05f49964ca4c683e5f676b4c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-10.0.1_83318cadf80028887337230ebc329d80f294b8ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_e8fd39d24ca7dd62027b59d42b325064bba28912\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-10.0.1_d287370f253a8aee0de31adf90740c42771479d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-10.0.1_f1d7f98517a47f7919cf7b809680079ed7554c2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.1_fec5acc7f099ae7143840f52302593a622fe5184\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-10.0.1_bc449dec55e95a96a0ba4e6cc9350f0acd8e88d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_51b1bf098035e15b90233771eac8d34bd088c697\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_04acab7524ce3c2f89ec0925da60c4f0f01dc3b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.0.1_247b26d471342eec637af1f38da2c05f56e4a3ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_4d77ad019a1e70604783dabaae189b679e76659c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_4678e431cddc8ee7934eb3039bc9f5b6a37b77dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_1efdf7adfb7068b6a1f942e663ec0d8b8eeb8f05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-10.0.1_8e88c9eb0ff8cbac410d0ce469c2def1d0f28ee4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-10.0.1_48f27e1317a93b2d7dc8e4dcb9d91797ccc69d4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_5a26991121c8a46556a6496639ee00ca1da06b3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_e0bdd715d4c9e0a72a63ee945b2bb8a91bb57f85\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_82f447a75bca6aefd8bbb1d393c789892e07ad52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-10.0.1_58537798a254f6368c2138e7ef4c5339bddb816e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-10.0.1_10d239a30ab1c37fb7aa1b7faf10b496ffc6346c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.0.1_9d178ec568002d9b1af13e4f76f53d918d8650d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.0.1_28f8177fa22caaaf9ff765acd1f094fa343694e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_3abb1dc4047bb55c94ccfff1592bd72c18be8c49\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-10.0.1_b861ee5a5f30f3b6a3a4ef548d1b4fe16d7a7d04\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-10.0.1_d081b4f7243457a19cfb97c8d01e7fd21101e4a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-10.0.1_69441f68af6d699fa568ae59ad02c8fcfb60b7fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.1_8227200d31f4fd4cd842390fadb0fa56396579ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c0c27852280b37624d3257d5f23562c982c38308">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_40dde7576a355416c3e09098f2e41891a18f5ce4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-10.0.1_d7386c627d01da7763680ed6d0351d72571744a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_c12820ab8a8b381ad1089a808d366c03d92ed282\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_481ffb6d9d78a38b0045fcb47811b1518a2112f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a0d621106a629b40d4e1758c8f687f548cd11fae">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_72082ca9e99b3c02324cbb454d5d9e81d87eea3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_69e880c8a757529076873e87db3091778b07fdfe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_03f87a8d33a30dc248c5f668d0d4a37dc26f4f8a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.1_05a8a54c2829b0184b85def8110f55a02bae6966\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-10.0.1_4ea7f29bc97bbb102eeade74481b2f21673ad49d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-10.0.1_3c16f31c86689ead371eb1aa1cb88f1ceb602c42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_865450dfe9a3e4de478c9cdb94493c6252501342\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_123a59af83bf11177c817025540b99c6703c0b98\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.1_30e2d2677839ed41d513a216122259821e318a56\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-10.0.1_913cf8726ead31594ea244afe461b61095866bc1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-10.0.1_6a3426e4cef26432369b35eec974d90fcf789ce8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-10.0.1_42e1f01951d1df63fc539f8c94b5cabe78fc18f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-10.0.1_6bc29646dfc1809f205ea69945b201c24a17fab2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-10.0.1_3173d0a5283e39b004d0dc52a68567b598b55908\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-10.0.1_e205a1d66deb6afd7073732b2e7f9e96f549334a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-10.0.1_96db59eaf292fbe43967327b611d37a889e30556\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-10.0.1_f3e2aadf80d747db3c98c5ff2b440e0619f2e65b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_db57bb3cead13e881d364d861ee849c5a7202071\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-10.0.1_582f01f380db2d6824b318731f5f94398e156b79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.0.1_dbf1c432c73d815b0fbf928b0503ca7f9f956758\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_6f0a8466449f0709c6cf204088ca01ba0a73e279\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="M:\Android\Projects\RedLightGreenLightLogIt\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-10.0.1_335fdaa8056120e3dfd49ba7df53b17ca4b4e5e3\classes.dex" />
+    </item>
+
+</items>
